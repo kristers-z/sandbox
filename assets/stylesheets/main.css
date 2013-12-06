@@ -104,6 +104,7 @@ span.accent {
 }
 /* ^3 ------------- home page specfic layout styles ----------- */
 #home #wrapper {
+  background: #000 url(../images/home_page_back.jpg) no-repeat 0 100px;
 }
 #actionCall {
   height: 328px;
